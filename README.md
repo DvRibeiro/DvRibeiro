@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Ribeiro</h1>
 <h3 align="center">A Software Developer | Interested in Financial Analysis with code</h3>
 
-- 🔭 I’m currently working on [A Fundamental analysis Web App](github.com/Romulo-Castro/PalomaInvest)
+- 🔭 I’m currently working on [A Fundamental analysis Web App]([github.com/Romulo-Castro/PalomaInvest](https://github.com/Romulo-Castro/PalomaInvest.git))
 
 - 🌱 I’m currently learning **Python, Data Analysis, Java, SQL**
 
